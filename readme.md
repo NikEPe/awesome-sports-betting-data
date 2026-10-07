@@ -19,6 +19,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 	- [Blogs and Video](#blogs-and-video)
 - [Prediction Market APIs](#prediction-market-apis)
 - [MCP Servers and AI Agent Tools](#mcp-servers-and-ai-agent-tools)
+- [DFS and Fantasy Research Platforms](#dfs-and-fantasy-research-platforms)
 - [Communities](#communities)
 - [Responsible Gambling](#responsible-gambling)
 - [Disclosure](#disclosure)
@@ -120,6 +121,12 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 - [PulseMCP](https://www.pulsemcp.com/) - Community directory of MCP servers, including sports betting ones.
 - [SkipOdds](https://skipodds.com/) - De-vigged consensus win probabilities over a keyless remote MCP server.
 - [VoxOdds](https://voxodds.com/) - Prediction market odds and EV checks over MCP.
+
+## DFS and Fantasy Research Platforms
+
+Commercial and freemium tools for daily fantasy sports research and lineup construction. Not tips or picks services.
+
+- [Only the Overs](https://www.onlytheovers.com/) - NFL and NHL DFS lineup builders, projections, PrizePicks research helpers, and educational guides; free signup with a founding Premium plan at $17.76/mo.
 
 ## Communities
 
